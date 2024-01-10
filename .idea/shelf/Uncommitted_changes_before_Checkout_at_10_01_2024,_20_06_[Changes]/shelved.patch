@@ -1,0 +1,13 @@
+Index: style.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>/*komentarz bez konfliktu*/
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/style.css b/style.css
+--- a/style.css	(revision ad80bb529376754067c7a202a22fcab598a72128)
++++ b/style.css	(date 1704913451629)
+@@ -1,1 +1,0 @@
+-/*komentarz bez konfliktu*/
+\ No newline at end of file
